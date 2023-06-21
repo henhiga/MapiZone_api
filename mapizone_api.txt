@@ -1,0 +1,84 @@
+[
+{
+  "questao1": {
+    "enunciado": "O Brasil conta com quantos fusos horários?",
+    "alternativa1": "1",
+    "alternativa2": "2",
+    "alternativa3": "3",
+    "alternativa4": "4",
+    "resposta": "4"
+  },
+ "questao2": {
+    "enunciado": "O sistema de fusos horários está corretamente dividido em",
+    "alternativa1": "12 fusos de 24 graus.",
+    "alternativa2": "24 fusos de 15 graus.",
+    "alternativa3": "30 fusos de 24 graus.",
+    "alternativa4": "30 fusos de 30 graus.",
+    "resposta": "2"
+  },
+ "questao3": {
+    "enunciado": "Com base na divisão de fuso horário do território brasileiro, indique corretamente a hora em Rio Branco (Acre), considerando que, em Goiânia (Goiás), são 16:00:",
+    "alternativa1": "14 horas",
+    "alternativa2": "15 horas",
+    "alternativa3": "17 horas",
+    "alternativa4": "18 horas",
+    "resposta": "1"
+  },
+ "questao4": {
+    "enunciado": "As linhas imaginárias auxiliam na definição dos fusos horários terrestres. Qual a linha imaginária que representa o marco zero da contagem dos fusos horários?",
+    "alternativa1": "Linha do Equador",
+    "alternativa2": "Meridiano de Greenwich",
+    "alternativa3": "Trópico de Capricórnio",
+    "alternativa4": "Trópico de Câncer",
+    "resposta": "2"
+  },
+ "questao5": {
+    "enunciado": "A demarcação dos fusos horários de forma prática, por meio de limites políticos estabelecidos pelos países, é corretamente denominada",
+    "alternativa1": "hora legal.",
+    "alternativa2": "hora oficial.",
+    "alternativa3": "hora nacional.",
+    "alternativa4": "linha da data.",
+    "resposta": "2"
+  },
+ "questao6": {
+    "enunciado": "Qual continente fica o Brasil?",
+    "alternativa1": "América do Norte",
+    "alternativa2": "América Central",
+    "alternativa3": "América do Sul",
+    "alternativa4": "África",
+    "resposta": "3"
+  },
+ "questao7": {
+    "enunciado": "A diferença de horas registrada ao redor do mundo está diretamente relacionada ao",
+    "alternativa1": "fenômeno do eclipse planetário.",
+    "alternativa2": "eixo de inclinação do planeta.",
+    "alternativa3": "movimento de rotação terrestre.",
+    "alternativa4": "deslocamento dos polos terrestres.",
+    "resposta": "3"
+  },
+ "questao8": {
+    "enunciado": "Considerando que a cidade de Tóquio está localizada 12 fusos horários à frente de São Paulo, qual a hora oficial em Tóquio quando em São Paulo forem 6 horas?",
+    "alternativa1": "8 horas.",
+    "alternativa2": "10 horas.",
+    "alternativa3": "12 horas.",
+    "alternativa4": "18 horas.",
+    "resposta": "4"
+  },
+ "questao9": {
+    "enunciado": "No momento em que o relógio marca 12h em Londres (0 GMT), qual horário estará marcando um relógio na Apple Developer Academy | Mackenzie (-3 GMT), no Brasil?",
+    "alternativa1": "7h",
+    "alternativa2": "8h",
+    "alternativa3": "9h",
+    "alternativa4": "15h",
+    "resposta": "3"
+  },
+ "questao10": {
+    "enunciado": "Uma aluna na Apple Developer Academy | Mackenzie(São Paulo) queria saber que horas era em Pernambuco, considerando que o horário visto no relógio da aluna era 13:11 que horas e minutos era em Pernambuco?",
+    "alternativa1": "13:11",
+    "alternativa2": "14:11",
+    "alternativa3": "13:00",
+    "alternativa4": "14:00",
+    "resposta": "1"
+  }
+}
+]
